@@ -1,16 +1,12 @@
-### Hi there 👋
+<h1 align="center"> Hola, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /> I'm Pawan Kumar</h1>
 
-<!--
-**PriyoRaven/PriyoRaven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💫 About Me :
+- 😄 Pronouns: He/His.
+- 📫 How to reach me: Check social links below.
+- ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Contact Me
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arian-shaikh-3b679b240/)](https://www.linkedin.com/in/priyadarsi-halder-786a8a237/)   
