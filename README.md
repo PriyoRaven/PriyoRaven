@@ -10,10 +10,8 @@
 - 🌱 Currently learning more about Web Development.
 
 ## 🌐 Contact Me
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priyadarsi-halder-786a8a237/]   [![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:priyadarsi02@gmail.com)](mailto:priyadarsi02@gmail.com)   
-
-
-
+![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priyadarsi-halder-786a8a237/)
+![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:priyadarsi02@gmail.com)
 
 ## 📈 Stats
 [![priyo's github activity graph](https://activity-graph.herokuapp.com/graph?username=PriyoRaven&theme=blue)](https://github.com/PriyoRaven/github-readme-activity-graph)
