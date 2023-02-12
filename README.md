@@ -24,7 +24,6 @@
 </p>
 
 ## 📈 Stats
-[![priyo's github activity graph](https://activity-graph.herokuapp.com/graph?username=PriyoRaven&theme=blue)](https://github.com/PriyoRaven/github-readme-activity-graph)
 <table>
 <tr>
 <td>
