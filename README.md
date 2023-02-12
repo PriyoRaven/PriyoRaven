@@ -56,7 +56,7 @@
 	     <li><b>Laptop: </b>ACER Aspire 7: i5 9th gen, NVIDIA geforce GTX 1650ti </li>
   	   <li><b>Browser: </b> Google Chrome</li>
 	     <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
-	     <li><b>To Stay Updated:</b> Linkedin </li>
+	     <li><b>To Stay Updated:</b> Linkedin, Reddit</li>
 	    <br/>
 	</ul>
 </details>
