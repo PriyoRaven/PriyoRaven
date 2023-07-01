@@ -1,4 +1,4 @@
-![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=PriyoRaven.PriyoRaven)
+![Visitor count](https://komarev.com/ghpvc/?username=PriyoRaven&color=blue&style=plastic&label=TOTAL+VISITORS)
 <h1 align="center"> Hello, <span class="wave">👋</span> I'm Priyadarsi Halder ✨</h1>
 
 # 💫 About Me :
@@ -33,7 +33,7 @@
 <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=PriyoRaven&theme=tokyonight"/>
 </p>
 
-## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **More Github Stats:**
+## 📊 **More Stats:**
 
 <details>
  <summary>🏆 <b>Github Profile Trophy</b></summary>
