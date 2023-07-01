@@ -1,26 +1,23 @@
 ![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=PriyoRaven.PriyoRaven)
-<h1 align="center"> Hello, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" /> I'm Priyadarsi Halder ✨</h1>
+<h1 align="center"> Hello, <span class="wave">👋</span> I'm Priyadarsi Halder ✨</h1>
 
 # 💫 About Me :
 - 😄 Pronouns: He/His.
-- 📫 How to reach me: Check social links below.
-- 🌱 Currently learning more about Web Development.
+- 📫 How to reach me: Check the social links below.
+- 📖 Currently learning more about Web Development.
 
-## 🌐 Contact Me
+## 📲 Contact Me
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priyadarsi-halder-786a8a237/)](https://www.linkedin.com/in/priyadarsi-halder-786a8a237/)
 [![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:priyadarsi02@gmail.com)](mailto:priyadarsi02@gmail.com)
 
-## **🔎Languages & Tools:**
+## **🔎Languages I know:**
 <p>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+<a href="https://www.w3schools.com/html/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/180px-HTML5_logo_and_wordmark.svg.png" alt="HTML5" width="50" height="50"/></a>	
+<a href="https://www.w3schools.com/css/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/180px-CSS3_logo_and_wordmark.svg.png" alt="CSS3" width="35" height="50"></a>	   
+<a href="https://www.javascript.com/"><img src="https://cdn.iconscout.com/icon/free/png-512/free-javascript-1-225993.png?f=avif&w=256" alt="JavaScript" width="35" height="40"></a>
+<a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="GIT" width="40" height="40"></a>
 <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://www.linux.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/213px-Tux.svg.png" alt="linux" width="40" height="40"/>
 </p>
 
 ## 📈 Stats
@@ -52,11 +49,11 @@
   <br/>
   <summary>⚙️ <b> Things I use to get stuff done</b></summary>
   	<ul>
-  	   <li><b>OS:</b> Windows 11 </li>
-	     <li><b>Laptop: </b>ACER Aspire 7: i5 9th gen, NVIDIA geforce GTX 1650ti </li>
-  	   <li><b>Browser: </b> Google Chrome</li>
-	     <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
-	     <li><b>To Stay Updated:</b> Linkedin, Reddit</li>
+		<li><a href="https://www.microsoft.com/software-download/windows11">🪟</a><b>OS:</b> Windows 11. </li>
+	     	<li><a href="https://www.acer.com/gb-en/laptops/aspire/aspire-7-intel/pdp/NH.Q87EK.002">💻</a><b>Laptop: </b>ACER Aspire 7: i5 9th gen, NVIDIA geforce GTX 1650ti. </li>
+  	   	<li><a>🌐</a><b>Browser: </b> Google Chrome and Microsoft Edge.</li>
+	     	<li><a href="https://code.visualstudio.com/">🖋️</a><b>Code Editor:</b> VSCode.</li>
+	     <li>⬆️<b>To Stay Updated:</b> Linkedin, Reddit.</li>
 	    <br/>
 	</ul>
 </details>
