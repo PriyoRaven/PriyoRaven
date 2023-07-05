@@ -24,13 +24,13 @@
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=PriyoRaven&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=PriyoRaven&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=PriyoRaven&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=aura"/>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=PriyoRaven&show_icons=true&locale=en&layout=compact&theme=aura" />
 </td>
 </tr>
 </table>
 <p align="center">
-<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=PriyoRaven&theme=tokyonight"/>
+<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=PriyoRaven&theme=aura"/>
 </p>
 
 ## 📊 **More Stats:**
