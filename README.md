@@ -1,5 +1,8 @@
 ![Visitor count](https://komarev.com/ghpvc/?username=PriyoRaven&color=blue&style=plastic&label=TOTAL+VISITORS)
-<h1 align="center"> Hello, <span class="wave">👋</span> I'm Priyadarsi Halder ✨</h1>
+<h1 align="center"> Hello, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /> I'm Priyadarsi Halder ✨</h1>
 
 # 💫 About Me :
 - 😄 Pronouns: He/His.
@@ -10,16 +13,21 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priyadarsi-halder-786a8a237/)](https://www.linkedin.com/in/priyadarsi-halder-786a8a237/)
 [![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:priyadarsi02@gmail.com)](mailto:priyadarsi02@gmail.com)
 
-## **🔎Languages I know:**
-<p>
-<a href="https://www.w3schools.com/html/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/180px-HTML5_logo_and_wordmark.svg.png" alt="HTML5" width="50" height="50"/></a>	
-<a href="https://www.w3schools.com/css/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/180px-CSS3_logo_and_wordmark.svg.png" alt="CSS3" width="35" height="50"></a>	   
-<a href="https://www.javascript.com/"><img src="https://cdn.iconscout.com/icon/free/png-512/free-javascript-1-225993.png?f=avif&w=256" alt="JavaScript" width="35" height="40"></a>
-<a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="GIT" width="40" height="40"></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://jquery.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/70142?s=280&v=4" alt="JQuery" width="40" height="40"/>
-<a href="https://www.linux.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/213px-Tux.svg.png" alt="linux" width="40" height="40"/>
-</p>
+## **🔎Skills and Tools:**
+- **Languages :**
+</br></br> [![Html](https://skillicons.dev/icons?i=html)](https://www.w3schools.com/html/) [![css3](https://skillicons.dev/icons?i=css)](https://www.w3schools.com/css/)  [![Javascript](https://skillicons.dev/icons?i=js)](https://www.w3schools.com/js/) [![python](https://skillicons.dev/icons?i=py)](https://www.python.org/) [![C](https://skillicons.dev/icons?i=c)](https://www.programiz.com/c-programming)
+
+- **Integrated Development Environments :**
+</br></br> [![VS code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/) [![Pycharm](https://skillicons.dev/icons?i=py)](https://www.jetbrains.com/pycharm/) [![Replit](https://skillicons.dev/icons?i=replit)](https://replit.com/~)
+  
+- **Frameworks & Libraries :**
+</br></br> [![bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/) [![Node](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en) [![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com/) [![React](https://skillicons.dev/icons?i=react)](https://react.dev/) [![Jquery](https://skillicons.dev/icons?i=jquery)](https://jquery.com/) [![NPM](https://skillicons.dev/icons?i=npmjs)](https://www.npmjs.com/)
+
+- **Deployment Platforms :**
+</br></br> [![vercel](https://skillicons.dev/icons?i=vercel)](https://vercel.com/) [![Netlify](https://skillicons.dev/icons?i=netlify)](https://www.netlify.com/) [![Heroku](https://skillicons.dev/icons?i=heroku)](https://id.heroku.com/login) [![Github](https://skillicons.dev/icons?i=github)](https://github.com/) [![Render](https://skillicons.dev/icons?i=render)](https://render.com/)
+
+- **Others :**
+</br></br> [![figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/) [![blender](https://skillicons.dev/icons?i=blender)](https://www.blender.org/) [![Adobe Photoshop](https://skillicons.dev/icons?i=ps)](https://www.adobe.com/in/products/photoshop.html#) [![Adobe AfterEffects](https://skillicons.dev/icons?i=ae)](https://www.adobe.com/in/products/aftereffects.html?gclid=Cj0KCQjwzdOlBhCNARIsAPMwjbyQTOBS1Q_T9yYRy7nL4-aYZ50pe60JlMbFo_lq-ut-sAGsAmWLHl4aAiVREALw_wcB&sdid=STLMM87Z&mv=search&ef_id=Cj0KCQjwzdOlBhCNARIsAPMwjbyQTOBS1Q_T9yYRy7nL4-aYZ50pe60JlMbFo_lq-ut-sAGsAmWLHl4aAiVREALw_wcB:G:s&s_kwcid=AL!3085!3!248207268711!e!!g!!adobe%20after%20effects!221167268!17525486588)
 
 ## 📈 Stats
 <table>
@@ -48,7 +56,7 @@
 
 <details>
   <br/>
-  <summary>⚙️ <b> Things I use to get stuff done</b></summary>
+  <summary>⚙️ <b> Hardware Configuration</b></summary>
   	<ul>
 		<li><a href="https://www.microsoft.com/software-download/windows11">🪟</a><b>OS:</b> Windows 11. </li>
 	     	<li><a href="https://www.acer.com/gb-en/laptops/aspire/aspire-7-intel/pdp/NH.Q87EK.002">💻</a><b>Laptop: </b>ACER Aspire 7: i5 9th gen, NVIDIA geforce GTX 1650ti. </li>
