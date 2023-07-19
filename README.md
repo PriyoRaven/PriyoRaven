@@ -19,7 +19,7 @@
 </br></br> [![Html](https://skillicons.dev/icons?i=html)](https://www.w3schools.com/html/) [![css3](https://skillicons.dev/icons?i=css)](https://www.w3schools.com/css/)  [![Javascript](https://skillicons.dev/icons?i=js)](https://www.w3schools.com/js/) [![python](https://skillicons.dev/icons?i=py)](https://www.python.org/) [![C](https://skillicons.dev/icons?i=c)](https://www.programiz.com/c-programming)
 
 - **Integrated Development Environments:**
-</br></br> [![VS code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/) [![Pycharm](https://skillicons.dev/icons?i=py)](https://www.jetbrains.com/pycharm/) [![Replit](https://skillicons.dev/icons?i=replit)](https://replit.com/~)
+</br></br> [![VS code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/) [![Pycharm](https://skillicons.dev/icons?i=py)](https://www.jetbrains.com/pycharm/) [![Replit](https://skillicons.dev/icons?i=replit)](https://replit.com/~) [![Codesandbox](https://skillicons.dev/icons?i=codesandbox)](https://codesandbox.io/)
   
 - **Frameworks & Libraries:**
 </br></br> [![bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/) [![Node](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en) [![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com/) [![React](https://skillicons.dev/icons?i=react)](https://react.dev/) [![Jquery](https://skillicons.dev/icons?i=jquery)](https://jquery.com/) [![NPM](https://skillicons.dev/icons?i=npmjs)](https://www.npmjs.com/)
