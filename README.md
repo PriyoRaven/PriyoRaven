@@ -6,7 +6,7 @@
          width="45" /> I'm Priyadarsi Halder ✨</h1>
 
 # 💫 About Me :
-- 😄 Pronouns: He/His.
+- 😄 Pronouns: He/Him.
 - 📫 How to reach me: Check the social links below.
 - 📖 Currently learning more about Web Development.
 
