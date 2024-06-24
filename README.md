@@ -8,7 +8,7 @@
 # 💫 About Me :
 - 😄 Pronouns: He/Him.
 - 📫 How to reach me: Check the social links below.
-- 📖 Currently learning more about Web Development.
+- 📖 Currently gathering more information on Software and Web Development.
 
 ## 📲 Contact Me
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priyadarsi-halder-786a8a237/)](https://www.linkedin.com/in/priyadarsi-halder-786a8a237/)
